@@ -1,16 +1,10 @@
-# blinkit_clone
+# Blink it
 
-A new Flutter project for creating clone of blinkit, a Q-commerce application
+This is my first flutter project, in which I've learned the language and created a clone.
+Further I'll try to make the backend of the project and dive more into the programming world.
+*Lol that's so dramatic.*
 
-## Getting Started
+Anyway here I'm am uploading my [Linkedin URL](https://www.linkedin.com/in/kabir-cse).
+So if you read this make sure you drop a DM.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*serge*
